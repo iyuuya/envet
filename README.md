@@ -1,5 +1,10 @@
 # envet
 
+## Installation
+```sh
+go install github.com/ysugimoto/envet/cmd/envet@latest
+```
+
 ## Usage
 
 ```sh
